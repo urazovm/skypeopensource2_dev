@@ -6,7 +6,10 @@ For now, only message receive and sending.
 
 Try to compile it (with Visual Studio 2010) and test by youself or use already compiled binaries.
 
+License:
+LGPL 3.0 
 
+Commercial license also avaiable on request.
 
 Links:
 
