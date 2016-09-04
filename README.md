@@ -47,7 +47,7 @@ Yes. Its complete re-implementation of proprietary Skype Network protocol.
 
 > whether or not it includes disassembled code from the other Skype clients
 
-Well, may be a little :) unpack-4142.c and pack-4142.c is HexRays decompiled code. And should be rewrited... But i dont have time for this now.
+Well, may be a little :) unpack-4142.c and pack-4142.c is HexRays decompiled code. And should be rewritten... But i dont have time for this now.
 
 > whether or not it is a clean-room reverse-engineered code, like Wine/ReactOS
 
