@@ -1,4 +1,4 @@
-# skypeopensource2
+# skypeopensource2_dev
 
 First in world selfmade client to Skype Network based on reversing original Skype 5.5 client.
 
