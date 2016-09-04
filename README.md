@@ -57,7 +57,7 @@ No. Not clean room, not chinese wall.
 
 Its my own code, i write it, i am the author of most code. And hold all copyrights rights.
 
-Well, except some login pieces (skyauth3/skype_login.c) which copyrighted by Sean O'Neil from [VEST Corporation](https://en.wikipedia.org/wiki/VEST) in 2009.
+Well, except some login pieces (skyauth3/skype_login.c) which copyrighted by Sean O'Neil from [VEST Corporation](https://en.wikipedia.org/wiki/VEST) in 2009. And RC4 reversing and implementation (skype_rc4.c/skype_rc4.h) also by Sean O'Neil.
 
 > what are the legal complications, if any, to developing the project and to using it personally or commercially
 
